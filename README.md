@@ -27,11 +27,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristian7712&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pamelamichellga01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamelamichellga01&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian7712&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelamichellga01&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
 </p>
 
 ---
@@ -39,14 +39,14 @@
 ### 📈 Actividad Reciente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristian7712&theme=tokyo-night&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pamelamichellga01&theme=tokyo-night&area=true" alt="activity graph" />
 </p>
 
 ---
 
 ### 📫 Contacto
 
-- ✉️ cristian.diaz8918@gmail.com  
+- ✉️ pamelamichellgalvisalvarez@gmail.com  
 - 🌐 [Portafolio personal](https://portafolio-personal-cristian-diaz.vercel.app/)
 
 ---
